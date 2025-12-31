@@ -36,5 +36,5 @@ A full-cycle data project demonstrating the "Measurement & Growth" loop.
 ---
 
 ### 📫 Contact
-* **Resume:** [View Full Resume](./Resume_Soohoon_Cho.pdf) (업로드 후 링크 활성화 예정)
+* **Resume:** [View Full Resume](./Resume_Soohoon_Cho.pdf)
 * **Location:** Los Angeles, CA
