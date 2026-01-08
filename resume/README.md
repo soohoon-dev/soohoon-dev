@@ -1,6 +1,9 @@
 # Resume
 
-- Web version: `./index.md`
-- PDF version: `./resume.pdf` (upload this file after you export your resume to PDF)
+- Web version (GitHub-rendered): [./index.md](./index.md)
+- PDF version: [./resume.pdf](./resume.pdf)
 
-Tip: If GitHub Pages is enabled for this repository, the folder will be accessible as a shareable URL ending with `/resume/`.
+Web version (GitHub Pages):
+- https://soohoon-dev.github.io/soohoon-dev/resume/
+
+Note: The Pages URL will work after GitHub Pages is enabled for this repository (Settings → Pages) and the files are pushed to the selected branch.
