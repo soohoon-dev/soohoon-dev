@@ -48,7 +48,7 @@ Digital advertising business focused on paid media execution and web/creative pr
 
 ### LA Onnuri Korean School | Los Angeles, CA
 
-**Planning Director (기획실장)** | Feb 2023 – Present
+**Planning Director** | Feb 2023 – Present
 
 - Support school promotion and student registration; prepare class materials and supporting documents.
 - Manage expense settlement and administrative operations.
