@@ -6,7 +6,7 @@
 
 ## **FULL-FUNNEL GROWTH MARKETING LEAD | PROGRAMMATIC & DATA SPECIALIST**
 
-**Programmatic Strategy | Global Partnerships | Marketing Measurement**
+**Programmatic Strategy | Global Partnerships |git remote -v Marketing Measurement**
 
 Performance marketing expert with **15+ years** in digital strategy and **10+ years** orchestrating high-ROI global campaigns using **DV360, Google Ads, and YouTube**. Specializes in designing **Dual-Track campaign architectures** that optimize for both traffic quality and High-Value Actions (HVA). Proven track record of executing **fiduciary budget ownership** (up to $90.5K/month) and building measurement infrastructures (GA4, SQL, Looker Studio) to drive measurable revenue growth.
 
