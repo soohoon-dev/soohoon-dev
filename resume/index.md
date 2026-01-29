@@ -4,6 +4,10 @@
 
 ---
 
+> 📥 **[Download PDF Portfolio](../resume/Portfolio_SooHoon_Yu.pdf)** | 📄 **[Download PDF Resume](../resume/resume_SooHoon_Yu.pdf)**
+
+---
+
 ## **FULL-FUNNEL GROWTH MARKETING LEAD | PROGRAMMATIC & DATA SPECIALIST**
 
 **Programmatic Strategy | Global Partnerships |git remote -v Marketing Measurement**
