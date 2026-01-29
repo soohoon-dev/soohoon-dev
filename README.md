@@ -40,6 +40,8 @@ Currently based in **Los Angeles, CA**.
 
 ---
 
+## 📄 **Resume**
+
 ## 📂 Portfolio & Resume
 
 - 📕 **Portfolio (PDF):** [Download Full Portfolio](./resume/Portfolio_SooHoon_Yu.pdf) 👈 _(Click to View)_
