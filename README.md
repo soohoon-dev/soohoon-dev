@@ -20,14 +20,14 @@ Currently based in **Los Angeles, CA**.
 
 ## 📂 **Featured Projects**
 
-### 1️⃣ [Marketing Data Pipeline & Analytics](https://github.com/soohoon-dev/marketing-data-pipeline)
+### 1️⃣ [Marketing Data Pipeline & Analytics](https://github.com/soohoon-dev/performance-marketing-portfolio)
 
 > **"Turning Ad Spend into ROI with Data Infrastructure"**
 
 - **Objective:** Built an automated ETL pipeline to analyze cross-channel performance (DV360, Google Ads).
 - **Tech Stack:** Google BigQuery, SQL, Python, Looker Studio.
 - **Key Result:** Reduced manual reporting time by **96%** and improved CTR by **2,044%** through data-driven optimization.
-- 👉 **[View Repository](https://github.com/soohoon-dev/marketing-data-pipeline)** _(Contains SQL queries & Analysis scripts)_
+- 👉 **[View Repository](https://github.com/soohoon-dev/performance-marketing-portfolio)** _(Contains SQL queries & Analysis scripts)_
 
 ### 2️⃣ [Book Execution Framework (MVP Launch)](https://github.com/soohoon-dev/book-execution-framework)
 
