@@ -1,74 +1,46 @@
-# Soo Hoon Yu
+# Hi there, I'm Soo Hoon Yu 👋
 
-**Technical Performance Marketing Lead | Paid Media + Measurement (GA4/GTM)**  
-Los Angeles, CA, USA
+### Full-Funnel Growth Marketing Lead | Programmatic & Data Specialist
 
-<a href="https://www.credly.com/badges/26f04506-a536-4763-9914-9160e5c9bc81/public_url">
-  <img src="https://images.credly.com/images/d4185c81-d7ad-4220-bf32-46168be588bc/blob" alt="Google Data Analytics Professional Certificate (v.3) — Issued by Coursera" width="30%">
-</a>
+I bridge the gap between **Paid Media Strategy** (DV360, Google Ads) and **Data Engineering** (SQL, BigQuery, Python) to drive measurable revenue growth.
 
-[![Google Analytics Certification — Completed 2025-11-11](https://img.shields.io/badge/Google%20Analytics-Certified-34A853)](https://skillshop.withgoogle.com/)
-[![Google Ads Display Certification — Completed 2026-01-08](https://img.shields.io/badge/Google%20Ads%20Display-Certified-4285F4)](https://skillshop.withgoogle.com/)
-[![Google Ads Search Certification — Completed 2026-01-09](https://img.shields.io/badge/Google%20Ads%20Search-Certified-4285F4)](https://skillshop.withgoogle.com/)
-
-Performance marketer with 12+ years optimizing paid media campaigns (Google Ads, DV360, YouTube) and implementing GA4/GTM measurement infrastructure. I deliver measurable results—proven track record of achieving 400%+ CTR improvements and 90%+ CPC reductions through data-driven optimization.
+Currently based in **Los Angeles, CA**.
 
 ---
 
-## Featured Project
+## 🚀 **Core Competencies**
 
-**Book-based Execution Framework (MVP)** — Measurement → Analysis → Share workflow
-
-End-to-end analytics demonstration using GA4/GTM → BigQuery/SQL → R Markdown → Tableau. Shows measurement planning, event taxonomy design, and reproducible analysis pipeline.
-
-- 🌐 Live Demo: https://soohoon-dev.github.io/book-execution-framework/
-- 💻 Repository: https://github.com/soohoon-dev/book-execution-framework
-
----
-
-## Technical Skills
-
-| Area                       | Tools & Technologies                                                                                      |
-| -------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Paid Media**             | Google Ads (Search/Display/Video), YouTube Ads, DV360 (Display/CTV/Audio; third-party audience targeting) |
-| **Measurement & Tracking** | GA4 (events, conversions, audiences), Google Tag Manager, UTM standards, conversion tracking              |
-| **Analytics & Reporting**  | BigQuery, SQL (Standard SQL), R (tidyverse), R Markdown, Tableau Public                                   |
-| **Web Development**        | WordPress, HTML/CSS, JavaScript/jQuery, PHP, MySQL, landing pages/microsites                              |
-| **Creative Tools**         | Adobe Photoshop, Illustrator, InDesign, Premiere, After Effects                                           |
+| **Programmatic Strategy**          | **Data & Measurement**             | **Marketing Tech**          |
+| :--------------------------------- | :--------------------------------- | :-------------------------- |
+| 🔹 DV360 & Open Auction Bidding    | 📊 SQL (Standard) & BigQuery       | 🛠 Google Tag Manager (GTM) |
+| 🔹 Full-Funnel Architecture        | 📈 R (Tidyverse) & Python (Pandas) | 🖥 Looker Studio & Tableau  |
+| 🔹 Fraud Prevention & Brand Safety | 🎯 GA4 Attribution Modeling        | 🌐 HTML/CSS & JavaScript    |
 
 ---
 
-## Key Achievements
+## 📂 **Featured Projects**
 
-- **446% CTR increase** (0.18% → 3.90%) through precision targeting in DV360 campaigns
-- **92% CPC reduction** ($0.66 → $0.05) via audience optimization
-- **5x more clicks with 40% less budget** through strategic campaign restructuring
-- **15x CTR improvement** (0.35% → 5.44%) in Google Ads Search campaigns
+### 1️⃣ [Marketing Data Pipeline & Analytics](https://github.com/soohoon-dev/marketing-data-pipeline)
 
----
+> **"Turning Ad Spend into ROI with Data Infrastructure"**
 
-## Resume & Portfolio
+- **Objective:** Built an automated ETL pipeline to analyze cross-channel performance (DV360, Google Ads).
+- **Tech Stack:** Google BigQuery, SQL, Python, Looker Studio.
+- **Key Result:** Reduced manual reporting time by **96%** and improved CTR by **2,044%** through data-driven optimization.
+- 👉 **[View Repository](https://github.com/soohoon-dev/marketing-data-pipeline)** _(Contains SQL queries & Analysis scripts)_
 
-- 📄 **Full Resume (Web)**: https://soohoon-dev.github.io/soohoon-dev/resume/
-- 📋 **Resume (Markdown)**: [./resume/index.md](./resume/index.md)
-- 📥 **Resume (PDF)**: [Download PDF](./resume/resume.pdf)
+### 2️⃣ [Book Execution Framework (MVP Launch)](https://github.com/soohoon-dev/book-execution-framework)
 
----
+> **"End-to-End Growth Strategy for a Digital Product"**
 
-## Currently
-
-- 🔨 **Building**: Analytics workflow demonstrations with GA4/GTM implementation examples
-- 📚 **Learning**: Advanced BigQuery optimization and Looker Studio dashboard design
+- **Objective:** Executed a full-funnel MVP launch campaign from tracking setup to conversion analysis.
+- **Tech Stack:** R (Data Analysis), GA4 Custom Events, Meta Ads.
+- **Key Result:** Validated product-market fit through measurable funnel analysis.
+- 👉 **[View Repository](https://github.com/soohoon-dev/book-execution-framework)**
 
 ---
 
-## Connect
+## 📄 **Resume**
 
-- 💼 **LinkedIn**: [Your LinkedIn URL]
-- 🌐 **Portfolio**: [Your Portfolio URL]
-- 📧 **Email**: [Your Email]
-- 📍 **Location**: Los Angeles, CA, USA
-
----
-
-<sub>Open to performance marketing, digital analytics, and marketing technology roles in the Los Angeles area and remote positions.</sub>
+- **View Full Resume:** [Click here to view my detailed Resume](./resume/index.md)
+- **Contact:** soohoon.yu@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/soo-hoon-yu)
