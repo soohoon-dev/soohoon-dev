@@ -1,6 +1,6 @@
 # SOO HOON YU
 
-**Los Angeles, CA** | soohoon.yu@gmail.com | [LinkedIn](https://www.linkedin.com/in/soo-hoon-yu) | [GitHub](https://github.com/soohoon-dev)
+**Los Angeles, CA** | soohoonyu.la@gmail.com | [LinkedIn](https://www.linkedin.com/in/soo-hoon-yu) | [GitHub](https://github.com/soohoon-dev)
 
 ---
 
