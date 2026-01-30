@@ -2,7 +2,7 @@
 
 ### Full-Funnel Growth Marketing Lead | Programmatic & Data Specialist
 
-I bridge the gap between **Paid Media Strategy** (DV360, Google Ads) and **Data Engineering** (SQL, BigQuery, Python) to drive measurable revenue growth.
+I bridge the gap between **Paid Media Strategy** (DV360, Google Ads) and **Technical Analytics** (SQL, GA4, Python) to drive measurable revenue growth.
 
 Currently based in **Los Angeles, CA**.
 
@@ -20,31 +20,28 @@ Currently based in **Los Angeles, CA**.
 
 ## 📂 **Featured Projects**
 
-### 1️⃣ [Marketing Data Pipeline & Analytics](https://github.com/soohoon-dev/performance-marketing-portfolio)
+### 🚗 [Automotive DV360 Optimization: 2,044% CTR Growth](https://github.com/soohoon-dev/performance-marketing-portfolio)
 
-> **"Turning Ad Spend into ROI with Data Infrastructure"**
+> **"Transforming Wasted Ad Spend into High-Performance Campaigns"**
 
-- **Objective:** Built an automated ETL pipeline to analyze cross-channel performance (DV360, Google Ads).
-- **Tech Stack:** Google BigQuery, SQL, Python, Looker Studio.
-- **Key Result:** Reduced manual reporting time by **96%** and improved CTR by **2,044%** through data-driven optimization.
-- 👉 **[View Repository](https://github.com/soohoon-dev/performance-marketing-portfolio)** _(Contains SQL queries & Analysis scripts)_
-
-### 2️⃣ [Book Execution Framework (MVP Launch)](https://github.com/soohoon-dev/book-execution-framework)
-
-> **"End-to-End Growth Strategy for a Digital Product"**
-
-- **Objective:** Executed a full-funnel MVP launch campaign from tracking setup to conversion analysis.
-- **Tech Stack:** R (Data Analysis), GA4 Custom Events, Meta Ads.
-- **Key Result:** Validated product-market fit through measurable funnel analysis.
-- 👉 **[View Repository](https://github.com/soohoon-dev/book-execution-framework)**
+- **Challenge:** High budget waste ($0.66 CPC) and low engagement (0.18% CTR) from broad targeting strategies.
+- **Solution:** Dual-Track campaign architecture, Traffic Validation Protocol, Bid Walk-Down optimization.
+- **Results:**
+  - **2,044% CTR increase** (0.18% → 3.86%)
+  - **92% CPC reduction** ($0.66 → $0.05)
+  - **158K+ quality clicks** delivered at scale
+- **Tech Stack:** DV360, GA4, SQL, Looker Studio
+- 👉 **[View Portfolio](https://github.com/soohoon-dev/performance-marketing-portfolio)**
 
 ---
 
-## 📄 **Resume**
-
-## 📂 Portfolio & Resume
+## 📄 **Portfolio & Resume**
 
 - 📕 **Portfolio (PDF):** [Download Full Portfolio](./resume/Portfolio_SooHoon_Yu.pdf) 👈 _(Click to View)_
-- 📄 **Resume (Web):** [View Web Resume](./resume/index.md)
+- 📄 **Resume (Web):** [View Resume](./resume/index.md)
+- 📧 **Contact:** soohoon.yu@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/soo-hoon-yu](https://www.linkedin.com/in/soo-hoon-yu)
 
-* **Contact:** soohoon.yu@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/soo-hoon-yu)
+---
+
+_Specializing in programmatic advertising (DV360), performance analytics (GA4/SQL), and data-driven campaign optimization._
