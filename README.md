@@ -41,13 +41,13 @@ Currently based in **Los Angeles, CA**.
 
 Marketing Operations Architect combining creative workflow design with performance data optimization.
 
-📄 **[View Portfolio](https://bit.ly/soohoonym-meta)**
+📄 **[View Portfolio](https://tinyurl.com/soohoonyu-meta)**
 
 ### Google AdMob - Marketing Specialist, Paid Media (2026)
 
 Performance marketing with fraud prevention and ecosystem integrity focus.
 
-📄 **[View Portfolio](https://bit.ly/soohoonym-google)**
+📄 **[View Portfolio](https://tinyurl.com/soohoonyu-google)**
 
 ---
 
