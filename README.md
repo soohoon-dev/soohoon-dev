@@ -31,13 +31,28 @@ Currently based in **Los Angeles, CA**.
   - **92% CPC reduction** ($0.66 → $0.05)
   - **158K+ quality clicks** delivered at scale
 - **Tech Stack:** DV360, GA4, SQL, Looker Studio
-- 👉 **[View Portfolio](https://github.com/soohoon-dev/performance-marketing-portfolio)**
+- 👉 **[View Case Study](https://github.com/soohoon-dev/performance-marketing-portfolio)**
 
 ---
 
-## 📄 **Portfolio & Resume**
+## 📁 **Role-Specific Portfolios**
 
-- 📕 **Portfolio (PDF):** [Download Full Portfolio](./resume/Portfolio_SooHoon_Yu.pdf) 👈 _(Click to View)_
+### Meta Creative X - Program Manager Lead (2026)
+
+Marketing Operations Architect combining creative workflow design with performance data optimization.
+
+📄 **[View Portfolio](./performance-marketing-portfolio/resume/Portfolio_SooHoon_Yu_Meta_CreativeX.pdf)**
+
+### Google AdMob - Marketing Specialist, Paid Media (2026)
+
+Performance marketing with fraud prevention and ecosystem integrity focus.
+
+📄 **[View Portfolio](./performance-marketing-portfolio/resume/Portfolio_SooHoon_Yu_Google_AdMob.pdf)**
+
+---
+
+## 📄 **Resume & Contact**
+
 - 📄 **Resume (Web):** [View Resume](./resume/index.md)
 - 📧 **Contact:** soohoonyu.la@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/soo-hoon-yu](https://www.linkedin.com/in/soo-hoon-yu)
